@@ -1,7 +1,7 @@
 Hi, I’m @rehana-ds  
 🎓 I’m a learner transitioning into Data Science and AI  
-👀 I’m interested in building projects using Python, SQL, Pandas, and Power BI  
-🌱 Currently learning: Data Analysis, Machine Learning, and Data Visualization  
+👀 I’m interested in building projects using Python, SQL, Numpy, Pandas, and ML
+🌱 Currently learning: Data Analysis, Machine Learning, and Deep Learning
 💼 I’ve completed AI & Power BI bootcamps with hands-on projects  
 💞️ I’m looking to collaborate on beginner-friendly data projects and hackathons  
 📫 Reach me at: rehana.ds@gmail.com | [LinkedIn](https://www.linkedin.com/in/rehana-ds)  
